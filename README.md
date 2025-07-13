@@ -32,7 +32,6 @@ simpliplay version
 # or
 simpliplay ver
 ```
+**Note:** For simplicity, the installer uses your browser to install the app. If you don't have a default browser set up it may not work properly. If you are having trouble using this package, please either use [our official website](https://simpliplay.netlify.app/#download-options) which will almost always be up to date, or report an issue via the [issue tracker](https://github.com/A-Star100/simpliplay-npm/issues) for the installer.
 
 Thanks for getting almost 1K downloads guys! I hope you enjoy using the app!
-
-**Note:** For simplicity, the installer uses your browser to install the app. If you don't have a default browser set up it may not work properly. If you are having trouble using this package, please either use [our official website](https://simpliplay.netlify.app/#download-options) which will almost always be up to date, or report an issue via the [issue tracker]() for the installer.
