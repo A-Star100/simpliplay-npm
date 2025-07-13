@@ -1,0 +1,21 @@
+{
+  "name": "simpliplay",
+  "version": "2.2.3",
+  "description": "SimpliPlay - The mission to make media playback simple, anywhere, anytime",
+  "bin": {
+    "simpliplay": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "update": "node index.js",
+    "version": "node getVersion.js",
+    "ver": "node getVersion.js"
+  },
+  "keywords": [
+    "installer",
+    "simpliplay",
+    "gui"
+  ],
+  "author": "Anirudh Sevugan",
+  "license": "MIT"
+}
